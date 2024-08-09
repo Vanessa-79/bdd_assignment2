@@ -1,0 +1,16 @@
+{
+  "name": "assignme-bdd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.8.0",
+    "chai": "^5.1.1"
+  }
+}
